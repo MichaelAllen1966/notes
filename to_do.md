@@ -5,6 +5,7 @@
 * SAMueL data request
 * Content for qual work
 * Build glossary for SHAP and SAMueL-2 books
+* Arrange steering group
 
 ## Projects
 
@@ -13,6 +14,7 @@
 * Maternity + neonatal
 * Mobile stroke units
 * Whole stroke system (pick up in Autumn)
+* Cat
 
 ## SAMueL general work areas
 
@@ -27,7 +29,7 @@
 * Synthetic data
 * Prediction of outcome
 * Include ambo times in pathway model
-* Effect of use organisational factors
+* Effect of organisational factors
 * Vignettes
 * Streamlit web app
 
