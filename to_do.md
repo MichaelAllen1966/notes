@@ -5,7 +5,6 @@
 * SAMueL data request
 * Content for qual work
 * Build glossary for SHAP and SAMueL-2 books
-* Arrange steering group
 
 ## Projects
 
@@ -13,21 +12,19 @@
 * Optimist
 * Maternity + neonatal
 * Mobile stroke units
-* Whole stroke system (pick up in Autumn)
+* Whole stroke system (pick up in Autumn?)
 * Cat
 
 ## SAMueL general work areas
 
 * Data request
 * SHAP
-    * Predict controversial patients with XG Boost
+* Predict controversial patients with XG Boost
 * New model types:
-    * Light GBM to avoid one-hot encoding of hospitals? Works with SHAP?
     * Embedding neural networks
 * Stroke outcome model
 * Demographic summary (and maps for stroke units)
 * Synthetic data
-* Prediction of outcome
 * Include ambo times in pathway model
 * Effect of organisational factors
 * Vignettes
